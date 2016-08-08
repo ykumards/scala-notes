@@ -10,7 +10,7 @@ def factorial(x: Double): Double = {
 }
 ```
 
-This function sill lead to a rather tedious evaluation
+This function will lead to a rather tedious evaluation
 
 ```
 factorial(5)
